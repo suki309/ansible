@@ -1,0 +1,6 @@
+- name: ping the node
+  hosts: mogodb
+  #this is list of tasks/modules/collections
+  tasks:
+  - name: ping the server
+    ansible.builtin.ping:
