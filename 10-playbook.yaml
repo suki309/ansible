@@ -5,9 +5,9 @@
   - NAME: "raju"
   - isDevops: true
   - Skills:
-   - Devops
-   - AWS
-   - Docker
+    - Devops
+    - AWS
+    - Docker
   - EXPERIENCE:
      Devops: 7
      AWS: 5
